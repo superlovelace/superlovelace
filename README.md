@@ -1,5 +1,5 @@
-### Hi 你好呀，我是棱境，欢迎来访。
-
+### Hi~ 你好呀，我是棱境，欢迎来到我的Github
+---
 <!--
 **superlovelace/superlovelace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
