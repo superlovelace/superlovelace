@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/superlovelace?tab=repositories">
-    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=superlovelace&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img align="center" height="170" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=superlovelace&show_icons=true&layout=compact&title_color=5FABEE&icon_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=D6E7FF"/>
 </a>
 <a href="https://github.com/superlovelace">
-    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=superlovelace&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img align="center" height="170" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=superlovelace&layout=compact&title_color=5FABEE&icon_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=D6E7FF"/>
 </a>
