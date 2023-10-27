@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 你好呀，我是棱境，欢迎来访。
 
 <!--
 **superlovelace/superlovelace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=superlovelace&show_icons=true&theme=rose)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superlovelace&layout=compact&theme=rose)](https://github.com/superlovelace/github-readme-stats)
+<a href="https://github.com/superlovelace/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superlovelace&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/superlovelace/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superlovelace&repo=convoychat" />
+</a>
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=superlovelace&show_icons=true&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superlovelace&layout=compact&theme=holi)](https://github.com/superlovelace/github-readme-stats)
