@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/superlovelace/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=superlovelace&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superlovelace&layout=compact&theme=holi)" />
-</a>
-<a href="https://github.com/superlovelace/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=superlovelace&repo=convoychat](https://github-readme-stats.vercel.app/api?username=superlovelace&show_icons=true&theme=holi)" />
-</a>
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=superlovelace&show_icons=true&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superlovelace&layout=compact&theme=holi)](https://github.com/superlovelace/github-readme-stats)
