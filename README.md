@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img align="center" height="170" position="float" src="https://github-readme-stats-sigma-five.vercel.app/api?username=superlovelace&show_icons=true&layout=compact&title_color=5FABEE&icon_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=D6E7FF"/>
 </a>
 
-<a href="https://github.com/superlovelace">
+<a href="https://github.com/superlovelace" style="position:float">
     <img align="center" height="170" position="float" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=superlovelace&layout=compact&title_color=5FABEE&icon_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=D6E7FF"/>
 </a>
 <!--
