@@ -5,7 +5,7 @@
 <!--
 <a href="#">
     <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=superlovelace&show_icons=true&layout=compact&title_color=5FABEE&icon_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=D6E7FF"/>
-</a>&nbsp;1
+</a>&nbsp;
 <a href="#">
     <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=superlovelace&layout=compact&title_color=5FABEE&icon_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=D6E7FF"/>
 </a>
